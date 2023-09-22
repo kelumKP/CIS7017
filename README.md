@@ -16,3 +16,21 @@ While I looking for the ideal data set from Colombo stock exchange, I just found
 1. Stock price data of the fifty stocks from NSE India  (2000 - 2021) - https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data
 2. Trading Imbalance in Chinese Stock Market - A High-Frequency View - https://figshare.com/articles/dataset/Trading_polarity_the_imbalance_of_buying_and_selling_in_stock_market/5835936
 3. financialdatapy is a package for getting fundamental financial data of a company. Currently, it supports financial data of companies listed in United States (NASDAQ, NYSE) and South Korea (KOSPI, KOSDAQ). - https://pypi.org/project/financialdatapy/
+
+My Research Question is "Do Inflation, Banking Loan Rates, and Pandemics impact stock prices in Colombo Stock Exchange?"
+
+To turn this into a more comprehensive research study, I would typically need to:
+
+Define the variables: Clearly specify how I will measure and define inflation, banking loan rates, stock market prices, and the occurrence of pandemics. This is essential for conducting empirical research.
+
+Formulate hypotheses: Based on my research question, I might develop hypotheses that predict whether and how these factors impact stock market prices. For example, "High inflation is negatively correlated with stock market performance in Sri Lanka."
+
+Gather data: Collect relevant data on inflation rates, loan rates, stock market prices, and pandemic events in Sri Lanka over a specified time period.
+
+Analyze data: Use statistical methods and econometric techniques to analyze the data and test your hypotheses. I could use regression analysis, correlation analysis, or other methods to assess the relationships.
+
+Draw conclusions: Based on the analysis, draw conclusions about whether or how inflation, banking loan rates, and pandemics impact stock market prices in Sri Lanka.
+
+Discuss implications: Discuss the implications of my findings, both for investors and policymakers. Are there actionable insights that can be derived from my research?
+
+Consider limitations: Be sure to acknowledge any limitations in my research, such as data limitations or potential confounding factors.
