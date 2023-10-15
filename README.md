@@ -1,6 +1,14 @@
 # CIS7017
 This is my Data Science Degree Final Year Project. Technology Dissertation (CIS 7017) 
 
+Final Research Topic
+
+## Predictive Modeling and Analysis of Stock Market Trends using Large-Scale Data from the Colombo Stock Exchange 
+
+Research Question 
+
+## Do Inflation, Banking Loan Rates, Pandemics, Elections, Exchange Rates, and Natural Disasters impact the Colombo Stock Exchange stock prices?
+
 Research Topics
 
 1. Predictive Modeling and Analysis of Stock Market Trends using Large-Scale Data from the Colombo Stock Exchange - The primary objective of this dissertation is to develop predictive models that can forecast stock prices and market trends based on historical and real-time data from the Colombo Stock Exchange.
@@ -34,3 +42,8 @@ Draw conclusions: Based on the analysis, draw conclusions about whether or how i
 Discuss implications: Discuss the implications of my findings, both for investors and policymakers. Are there actionable insights that can be derived from my research?
 
 Consider limitations: Be sure to acknowledge any limitations in my research, such as data limitations or potential confounding factors.
+
+### Pandamics History 
+
+![History of Pandamics](DATASETS/PANDAMICS_DATA_SRI_LANKA/history_of_pandamics.jpg)
+
