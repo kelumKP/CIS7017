@@ -45,7 +45,7 @@ Consider limitations: Be sure to acknowledge any limitations in my research, suc
 
 ### Pandamics History 
 
-![History of Pandamics](DATASETS/PANDAMICS_DATA_SRI_LANKA/history_of_pandamics.jpg)
+![History of Pandamics](DATASETS/FACTORS/PANDAMICS_DATA_SRI_LANKA/history_of_pandamics.jpg)
 
 ### Overall Stock Value Changes
 
