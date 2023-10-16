@@ -1,21 +1,21 @@
-"Name","Time period","Type / Pre-human host","	Death toll"
-"Antonine Plague","165-180","Believed to be either smallpox or measles","5M"
-"Japanese smallpox epidemic","735-737","Variola major virus","1M"
-"Plague of Justinian","541-542","Yersinia pestis bacteria / Rats, fleas","30-50M"
-"Black Death","1347-1351","Yersinia pestis bacteria / Rats, fleas","200M"
-"New World Smallpox Outbreak","1520 – onwards","Variola major virus","56M"
-"Great Plague of London","1665","Yersinia pestis bacteria / Rats, fleas","100,000"
-"Italian plague","1629-1631","Yersinia pestis bacteria / Rats, fleas","1M"
-"Cholera Pandemics 1-6","1817-1923","V. cholerae bacteria","1M+"
-"Third Plague","1885","Yersinia pestis bacteria / Rats, fleas","12M (China and India)"
-"Yellow Fever","Late 1800s","Virus / Mosquitoes","100,000-150,000 (U.S.)"
-"Russian Flu","1889-1890","Believed to be H2N2 (avian origin)","1M"
-"Spanish Flu","1918-1919","H1N1 virus / Pigs","40-50M"
-"Asian Flu","1957-1958","H2N2 virus","1.1M"
-"Hong Kong Flu","1968-1970","H3N2 virus","1M"
-"HIV/AIDS","1981-present","Virus / Chimpanzees","25-35M"
-"Swine Flu","2009-2010","H1N1 virus / Pigs","200,000"
-"SARS","2002-2003","Coronavirus / Bats, Civets","770"
-"Ebola","2014-2016","Ebolavirus / Wild animals","11,000"
-"MERS","2015-Present","Coronavirus / Bats, camels","850"
-"COVID-19","2019-Present","Coronavirus – Unknown (possibly pangolins)","6.9M (Johns Hopkins University estimate as of March 1, 2023)"
+Name,Time period,Type / Pre-human host,"	Death toll"
+Antonine Plague,165-180,Believed to be either smallpox or measles,5M
+Japanese smallpox epidemic,735-737,Variola major virus,1M
+Plague of Justinian,541-542,"Yersinia pestis bacteria / Rats, fleas",30-50M
+Black Death,1347-1351,"Yersinia pestis bacteria / Rats, fleas",200M
+New World Smallpox Outbreak,1520 -1526,Variola major virus,56M
+Great Plague of London,1665-1666,"Yersinia pestis bacteria / Rats, fleas","100,000"
+Italian plague,1629-1631,"Yersinia pestis bacteria / Rats, fleas",1M
+Cholera Pandemics 1-6,1817-1923,V. cholerae bacteria,1M+
+Third Plague,1885-1945,"Yersinia pestis bacteria / Rats, fleas",12M (China and India)
+Yellow Fever,1800-1906,Virus / Mosquitoes,"100,000-150,000 (U.S.)"
+Russian Flu,1889-1890,Believed to be H2N2 (avian origin),1M
+Spanish Flu,1918-1919,H1N1 virus / Pigs,40-50M
+Asian Flu,1957-1958,H2N2 virus,1.1M
+Hong Kong Flu,1968-1970,H3N2 virus,1M
+HIV/AIDS,1981-Present,Virus / Chimpanzees,25-35M
+Swine Flu,2009-2010,H1N1 virus / Pigs,"200,000"
+SARS,2002-2003,"Coronavirus / Bats, Civets",770
+Ebola,2014-2016,Ebolavirus / Wild animals,"11,000"
+MERS,2015-Present,"Coronavirus / Bats, camels",850
+COVID-19,2019-Present,Coronavirus – Unknown (possibly pangolins),"6.9M (Johns Hopkins University estimate as of March 1, 2023)"
