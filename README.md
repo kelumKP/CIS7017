@@ -25,7 +25,7 @@ While I looking for the ideal data set from Colombo stock exchange, I just found
 2. Trading Imbalance in Chinese Stock Market - A High-Frequency View - https://figshare.com/articles/dataset/Trading_polarity_the_imbalance_of_buying_and_selling_in_stock_market/5835936
 3. financialdatapy is a package for getting fundamental financial data of a company. Currently, it supports financial data of companies listed in United States (NASDAQ, NYSE) and South Korea (KOSPI, KOSDAQ). - https://pypi.org/project/financialdatapy/
 
-My Research Question is "Do Inflation, Banking Loan Rates, and Pandemics impact stock prices in Colombo Stock Exchange?"
+My Research Question is "Do Inflation, Banking Loan Rates, Pandemics, Elections, Exchange Rates, and Natural Disasters impact the Colombo Stock Exchange stock prices?"
 
 To turn this into a more comprehensive research study, I would typically need to:
 
@@ -50,4 +50,9 @@ Consider limitations: Be sure to acknowledge any limitations in my research, suc
 ### Overall Stock Value Changes
 
 ![Stock Value Change](overall_data.png)
+
+### Overall Stock Category Changes
+
+![Category Change](category_wise_changes.png)
+
 
