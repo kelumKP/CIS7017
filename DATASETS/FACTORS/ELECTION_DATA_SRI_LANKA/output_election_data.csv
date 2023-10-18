@@ -1,0 +1,81 @@
+Election Number,Election Name,Start Day,Start Month,Start Year,End Day,End Month,End Year
+1,General Election - 1 State Council,13,6,1931,20,6,1931
+2,General Election - 2 State Council,22,2,1936,7,3,1936
+3,General Election - House of Representatives (1 Parliament),23,8,1947,20,9,1947
+4,General Election - House of Representatives  (2 Parliament),24,5,1952,30,5,1952
+5,General Election - House of Representatives  (3 Parliament),5,4,1956,10,4,1956
+6,General Election - House of Representatives  (4 Parliament),19,3,1960,20,3,1960
+7,General Election - House of Representatives (5 Parliament),20,7,1960,21,7,1960
+8,General Election - House of Representatives (6 Parliament),22,3,1965,23,3,1965
+9,General Election - House of Representatives  (7 Parliament),27,5,1970,28,5,1970
+10,General Election - 2 National State Assembly (8 Parliament),21,7,1977,22,7,1977
+11,Presidential Election (1),20,10,1982,21,10,1982
+12,Referendum,22,12,1982,23,12,1982
+13,Provincial Councils Election North Western Province,28,4,1988,29,4,1988
+14,Provincial Councils Election North Central Province,28,4,1988,29,4,1988
+15,Provincial Councils Election Uva Province,28,4,1988,29,4,1988
+16,Provincial Councils Election Sabaragamuwa Province,28,4,1988,29,4,1988
+17,Provincial Councils Election Western Province,2,6,1988,3,6,1988
+18,Provincial Councils Election Central Province,2,6,1988,3,6,1988
+19,Provincial Councils Election Southern Province,9,6,1988,10,6,1988
+20,Provincial Councils Election North Eastern Province,19,11,1988,20,11,1988
+21,Presidential Election (2),19,12,1988,20,12,1988
+22,General Election - 2 Parliament of the D.S.R. of Sri Lanka (9 Parliament),15,2,1989,16,2,1989
+23,Local Government Election,11,5,1991,12,5,1991
+24,Provincial Councils Election,17,5,1993,18,5,1993
+25,Provincial Councils Election Southern Province,24,3,1994,25,3,1994
+26,Local Government Election - Eastern Province,1,3,1994,2,3,1994
+27,General Election - 3 Parliament of the D.S.R. of Sri Lanka (10 Parliament),16,8,1994,17,8,1994
+28,Presidential Election (3),9,11,1994,10,11,1994
+29,Local Government Election,21,3,1997,22,3,1997
+30,Provincial Councils Election North Western Province,25,1,1999,26,1,1999
+31,Provincial Councils Election Western Province,6,4,1999,7,4,1999
+32,Provincial Councils Election Central Province,6,4,1999,7,4,1999
+33,Provincial Councils Election North Central Province,6,4,1999,7,4,1999
+34,Provincial Councils Election Uva Province,6,4,1999,7,4,1999
+35,Provincial Councils Election Sabaragamuwa Province,6,4,1999,7,4,1999
+36,Provincial Councils Election Southern Province,10,6,1999,11,6,1999
+37,Presidential Election (4),21,12,1999,22,12,1999
+38,General Election - 4 Parliament of the D.S.R of Sri Lanka (11 Parliament),10,10,2000,11,10,2000
+39,General Election - 5 Parliament of the D.S.R. of Sri Lanka (12 Parliament),5,12,2001,6,12,2001
+40,Local Government Election 1,20,3,2002,21,3,2002
+41,Local Government Election 2,20,5,2002,21,5,2002
+41,Akuressa Pradeshiya Sabha,8,3,2003,9,3,2003
+42,General Election - 6 Parliament of the D.S.R. of Sri Lanka (13 Parliament),2,4,2004,3,4,2004
+43,Provincial Councils Election North Western Province,25,4,2004,26,4,2004
+44,Provincial Councils Election Other Six Provinces,10,7,2004,11,7,2004
+45,Presidential Election (5),17,11,2005,18,11,2005
+46,Local Government Election 1,30,3,2006,31,3,2006
+47,Local Government Election 2,20,5,2006,21,5,2006
+48,Batticaloa District,10,3,2008,11,3,2008
+49,Provincial Councils Election Eastern Province,10,5,2008,11,5,2008
+50,Provincial Councils Election North Central Province,23,8,2008,24,8,2008
+51,Provincial Councils Election Sabaragamuwa Province,23,8,2008,24,8,2008
+52,Provincial Councils Election Central Province,14,2,2009,15,2,2009
+53,Provincial Councils Election North Western Province,14,2,2009,15,2,2009
+54,Provincial Councils Election Western Province,25,4,2009,26,4,2009
+55,Provincial Councils Election Uva Province,8,8,2009,9,8,2009
+56,Local Government Election Jaffna Municipal Council,8,8,2009,9,8,2009
+57,Local Government Election Vavuniya Urban Council,8,8,2009,9,8,2009
+58,Provincial Councils Election Southern Province,10,10,2009,11,10,2009
+59,Presidential Election (6),26,1,2010,27,1,2010
+60,General Election - 7 Parliament of the D.S.R. of Sri Lanka (14 Parliament) 1,8,4,2010,9,4,2010
+61,General Election - 7 Parliament of the D.S.R. of Sri Lanka (14 Parliament) 2,20,4,2010,21,4,2010
+62,Local Government Election 1,17,3,2011,18,3,2011
+63,Local Government Election 2,23,7,2011,24,7,2011
+64,Local Government Election 3,8,10,2011,9,10,2011
+65,Provincial Councils Election Eastern Province,8,9,2012,9,9,2012
+66,Provincial Councils Election North Central Province,8,9,2012,9,9,2012
+67,Provincial Councils Election Sabaragamuwa Province,8,9,2012,9,9,2012
+68,Provincial Councils Election Central Province,21,9,2013,22,9,2013
+69,Provincial Councils Election Northern Province,21,9,2013,22,9,2013
+70,Provincial Councils Election North Western Province,21,9,2013,22,9,2013
+71,Provincial Councils Election Western Province,29,3,2014,30,3,2014
+72,Provincial Councils Election Southern Province,29,3,2014,30,3,2014
+73,Provincial Councils Election Uva Province,20,9,2014,21,9,2014
+74,Presidential Election (7),8,1,2015,9,1,2015
+75,General Election - 8 Parliament of the D.S.R. of Sri Lanka(15 Parliament),17,8,2015,18,8,2015
+76,Local Government Election,10,2,2018,11,2,2018
+77,Elpitiya Pradeshiya Sabha,11,10,2019,12,10,2019
+78,Presidential Election (8),16,11,2019,17,11,2019
+79,General Election - 9 Parliament of the D.S.R. of Sri Lanka(16 Parliament),5,8,2020,6,8,2020
