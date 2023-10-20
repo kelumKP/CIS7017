@@ -755,84 +755,84 @@ Year,Month,Inflation
 2016,October,4.20%
 2016,November,3.40%
 2016,December,4.10%
-2017,January ,5.5
-2017,February ,6.8
-2017,March ,7.3
-2017,April ,6.9
-2017,May ,6.0
-2017,June ,6.1
-2017,July ,4.8
-2017,August ,6.0
-2017,September ,7.1
-2017,October ,7.8
-2017,November ,7.6
-2017,December ,7.1
-2018,January ,5.8
-2018,February ,4.5
-2018,March ,4.2
-2018,April ,3.8
-2018,May ,4.0
-2018,June ,4.4
-2018,July ,5.4
-2018,August ,5.9
-2018,September ,4.3
-2018,October ,3.1
-2018,November ,3.3
-2018,December ,2.8
-2019,January ,3.7
-2019,February ,4.0
-2019,March ,4.3
-2019,April ,4.5
-2019,May ,5.0
-2019,June ,3.8
-2019,July ,3.3
-2019,August ,3.4
-2019,September ,5.0
-2019,October ,5.4
-2019,November ,4.4
-2019,December ,4.8
-2020,January ,5.7
-2020,February ,6.2
-2020,March ,5.4
-2020,April ,5.2
-2020,May ,4.0
-2020,June ,3.9
-2020,July ,4.2
-2020,August ,4.1
-2020,September ,4.0
-2020,October ,4.0
-2020,November ,4.1
-2020,December ,4.2
-2021,January ,3.0
-2021,February ,3.3
-2021,March ,4.1
-2021,April ,3.9
-2021,May ,4.5
-2021,June ,5.2
-2021,July ,5.7
-2021,August ,6.0
-2021,September ,5.7
-2021,October ,7.6
-2021,November ,9.9
-2021,December ,12.1
-2022,January ,14.2
-2022,February ,15.1
-2022,March ,18.7
-2022,April ,29.8
-2022,May ,39.1
-2022,June ,54.6
-2022,July ,60.8
-2022,August ,64.3
-2022,September ,69.8
-2022,October ,66.0
-2022,November ,61.0
-2022,December ,57.2
-2023,January ,54.2
-2023,February ,50.6
-2023,March ,50.3
-2023,April ,35.3
-2023,May ,25.2
-2023,June ,12
-2023,July ,6.3
-2023,August ,4
-2023,September ,1.3
+2017,January,5.5
+2017,February,6.8
+2017,March,7.3
+2017,April,6.9
+2017,May,6
+2017,June,6.1
+2017,July,4.8
+2017,August,6
+2017,September,7.1
+2017,October,7.8
+2017,November,7.6
+2017,December,7.1
+2018,January,5.8
+2018,February,4.5
+2018,March,4.2
+2018,April,3.8
+2018,May,4
+2018,June,4.4
+2018,July,5.4
+2018,August,5.9
+2018,September,4.3
+2018,October,3.1
+2018,November,3.3
+2018,December,2.8
+2019,January,3.7
+2019,February,4
+2019,March,4.3
+2019,April,4.5
+2019,May,5
+2019,June,3.8
+2019,July,3.3
+2019,August,3.4
+2019,September,5
+2019,October,5.4
+2019,November,4.4
+2019,December,4.8
+2020,January,5.7
+2020,February,6.2
+2020,March,5.4
+2020,April,5.2
+2020,May,4
+2020,June,3.9
+2020,July,4.2
+2020,August,4.1
+2020,September,4
+2020,October,4
+2020,November,4.1
+2020,December,4.2
+2021,January,3
+2021,February,3.3
+2021,March,4.1
+2021,April,3.9
+2021,May,4.5
+2021,June,5.2
+2021,July,5.7
+2021,August,6
+2021,September,5.7
+2021,October,7.6
+2021,November,9.9
+2021,December,12.1
+2022,January,14.2
+2022,February,15.1
+2022,March,18.7
+2022,April,29.8
+2022,May,39.1
+2022,June,54.6
+2022,July,60.8
+2022,August,64.3
+2022,September,69.8
+2022,October,66
+2022,November,61
+2022,December,57.2
+2023,January,54.2
+2023,February,50.6
+2023,March,50.3
+2023,April,35.3
+2023,May,25.2
+2023,June,12
+2023,July,6.3
+2023,August,4
+2023,September,1.3

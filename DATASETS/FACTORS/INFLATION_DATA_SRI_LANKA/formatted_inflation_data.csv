@@ -3,7 +3,7 @@ Year,Month,Inflation
 1954,February,1.2
 1954,March,1.2
 1954,April,0.4
-1954,May,1.0
+1954,May,1
 1954,June,0.1
 1954,July,-1.8
 1954,August,-5.1
@@ -14,31 +14,31 @@ Year,Month,Inflation
 1955,January,0.1
 1955,February,-0.2
 1955,March,-0.3
-1955,April,1.0
+1955,April,1
 1955,May,-0.7
 1955,June,-2.2
-1955,July,-1.0
+1955,July,-1
 1955,August,-0.2
 1955,September,-1.1
-1955,October,-1.0
+1955,October,-1
 1955,November,-0.8
 1955,December,-0.3
-1956,January,0.0
+1956,January,0
 1956,February,-0.7
-1956,March,0.0
+1956,March,0
 1956,April,0.2
 1956,May,-0.6
 1956,June,-0.1
-1956,July,-1.0
-1956,August,-1.0
-1956,September,0.0
-1956,October,1.0
+1956,July,-1
+1956,August,-1
+1956,September,0
+1956,October,1
 1956,November,0.2
 1956,December,-1.2
 1957,January,-0.9
-1957,February,1.0
+1957,February,1
 1957,March,1.3
-1957,April,1.0
+1957,April,1
 1957,May,2.9
 1957,June,3.1
 1957,July,4.4
@@ -48,15 +48,15 @@ Year,Month,Inflation
 1957,November,4.2
 1957,December,5.3
 1958,January,5.7
-1958,February,5.0
+1958,February,5
 1958,March,3.9
 1958,April,2.3
 1958,May,1.8
 1958,June,1.4
 1958,July,-0.4
-1958,August,2.0
+1958,August,2
 1958,September,2.2
-1958,October,2.0
+1958,October,2
 1958,November,0.5
 1958,December,-1.3
 1959,January,-1.2
@@ -88,19 +88,19 @@ Year,Month,Inflation
 1961,March,-2.2
 1961,April,-0.1
 1961,May,1.6
-1961,June,2.0
+1961,June,2
 1961,July,3.3
 1961,August,4.7
 1961,September,2.7
 1961,October,2.6
-1961,November,1.0
-1961,December,2.0
+1961,November,1
+1961,December,2
 1962,January,1.3
 1962,February,1.9
 1962,March,2.8
 1962,April,2.3
 1962,May,2.4
-1962,June,2.0
+1962,June,2
 1962,July,1.8
 1962,August,0.8
 1962,September,0.8
@@ -135,7 +135,7 @@ Year,Month,Inflation
 1965,February,0.7
 1965,March,1.2
 1965,April,0.2
-1965,May,0.0
+1965,May,0
 1965,June,-0.3
 1965,July,0.5
 1965,August,0.4
@@ -154,7 +154,7 @@ Year,Month,Inflation
 1966,September,-0.1
 1966,October,0.2
 1966,November,-0.2
-1966,December,0.0
+1966,December,0
 1967,January,0.4
 1967,February,0.4
 1967,March,0.3
@@ -162,17 +162,17 @@ Year,Month,Inflation
 1967,May,1.4
 1967,June,2.3
 1967,July,2.2
-1967,August,3.0
+1967,August,3
 1967,September,3.1
 1967,October,2.8
 1967,November,3.6
-1967,December,6.0
+1967,December,6
 1968,January,5.1
 1968,February,4.8
 1968,March,5.3
-1968,April,5.0
+1968,April,5
 1968,May,4.7
-1968,June,5.0
+1968,June,5
 1968,July,6.5
 1968,August,6.2
 1968,September,6.5
@@ -213,8 +213,8 @@ Year,Month,Inflation
 1971,August,2.6
 1971,September,2.7
 1971,October,4.1
-1971,November,6.0
-1971,December,6.0
+1971,November,6
+1971,December,6
 1972,January,6.3
 1972,February,6.9
 1972,March,6.2
@@ -223,20 +223,20 @@ Year,Month,Inflation
 1972,June,7.4
 1972,July,7.8
 1972,August,7.8
-1972,September,7.0
+1972,September,7
 1972,October,5.6
 1972,November,3.7
-1972,December,4.0
+1972,December,4
 1973,January,5.9
 1973,February,6.7
-1973,March,7.0
+1973,March,7
 1973,April,6.8
 1973,May,6.7
 1973,June,8.6
-1973,July,9.0
+1973,July,9
 1973,August,10.8
 1973,September,11.1
-1973,October,14.0
+1973,October,14
 1973,November,14.1
 1973,December,14.4
 1974,January,12.6
@@ -247,13 +247,13 @@ Year,Month,Inflation
 1974,June,11.5
 1974,July,11.5
 1974,August,12.8
-1974,September,13.0
+1974,September,13
 1974,October,10.6
 1974,November,10.6
 1974,December,10.7
 1975,January,10.5
-1975,February,10.0
-1975,March,10.0
+1975,February,10
+1975,March,10
 1975,April,8.7
 1975,May,8.4
 1975,June,8.1
@@ -274,7 +274,7 @@ Year,Month,Inflation
 1976,September,0.7
 1976,October,0.8
 1976,November,0.9
-1976,December,1.0
+1976,December,1
 1977,January,1.1
 1977,February,1.4
 1977,March,1.5
@@ -293,12 +293,12 @@ Year,Month,Inflation
 1978,April,9.7
 1978,May,10.5
 1978,June,11.3
-1978,July,12.0
+1978,July,12
 1978,August,14.1
 1978,September,17.1
 1978,October,16.9
 1978,November,16.9
-1978,December,17.0
+1978,December,17
 1979,January,17.2
 1979,February,8.6
 1979,March,8.8
@@ -306,12 +306,12 @@ Year,Month,Inflation
 1979,May,7.8
 1979,June,7.6
 1979,July,7.2
-1979,August,6.0
+1979,August,6
 1979,September,13.2
 1979,October,14.3
 1979,November,14.7
 1979,December,14.7
-1980,January,16.0
+1980,January,16
 1980,February,21.6
 1980,March,28.4
 1980,April,28.7
@@ -328,9 +328,9 @@ Year,Month,Inflation
 1981,March,16.9
 1981,April,17.6
 1981,May,17.5
-1981,June,17.0
+1981,June,17
 1981,July,16.2
-1981,August,16.0
+1981,August,16
 1981,September,16.8
 1981,October,17.8
 1981,November,17.3
@@ -340,9 +340,9 @@ Year,Month,Inflation
 1982,March,12.6
 1982,April,12.7
 1982,May,11.9
-1982,June,11.0
-1982,July,11.0
-1982,August,11.0
+1982,June,11
+1982,July,11
+1982,August,11
 1982,September,9.3
 1982,October,7.9
 1982,November,6.4
@@ -360,7 +360,7 @@ Year,Month,Inflation
 1983,November,20.4
 1983,December,21.4
 1984,January,21.7
-1984,February,23.0
+1984,February,23
 1984,March,20.5
 1984,April,19.3
 1984,May,18.7
@@ -374,8 +374,8 @@ Year,Month,Inflation
 1985,January,7.7
 1985,February,4.9
 1985,March,2.9
-1985,April,2.0
-1985,May,2.0
+1985,April,2
+1985,May,2
 1985,June,1.5
 1985,July,0.8
 1985,August,-1.2
@@ -383,7 +383,7 @@ Year,Month,Inflation
 1985,October,-2.1
 1985,November,0.7
 1985,December,1.5
-1986,January,4.0
+1986,January,4
 1986,February,5.7
 1986,March,6.7
 1986,April,6.8
@@ -393,14 +393,14 @@ Year,Month,Inflation
 1986,August,9.8
 1986,September,11.6
 1986,October,11.6
-1986,November,10.0
+1986,November,10
 1986,December,9.1
 1987,January,7.7
 1987,February,6.8
 1987,March,6.2
 1987,April,6.8
 1987,May,7.6
-1987,June,7.0
+1987,June,7
 1987,July,7.8
 1987,August,7.8
 1987,September,7.3
@@ -409,7 +409,7 @@ Year,Month,Inflation
 1987,December,10.2
 1988,January,13.1
 1988,February,13.5
-1988,March,13.0
+1988,March,13
 1988,April,13.1
 1988,May,13.2
 1988,June,14.1
@@ -417,8 +417,8 @@ Year,Month,Inflation
 1988,August,13.9
 1988,September,15.3
 1988,October,14.2
-1988,November,15.0
-1988,December,15.0
+1988,November,15
+1988,December,15
 1989,January,10.1
 1989,February,8.8
 1989,March,10.3
@@ -432,12 +432,12 @@ Year,Month,Inflation
 1989,November,13.1
 1989,December,15.1
 1990,January,19.2
-1990,February,22.0
+1990,February,22
 1990,March,22.3
 1990,April,22.6
 1990,May,23.3
 1990,June,22.4
-1990,July,24.0
+1990,July,24
 1990,August,20.9
 1990,September,20.6
 1990,October,19.5
@@ -446,15 +446,15 @@ Year,Month,Inflation
 1991,January,15.4
 1991,February,13.7
 1991,March,14.3
-1991,April,14.0
+1991,April,14
 1991,May,13.6
 1991,June,13.7
 1991,July,11.7
-1991,August,12.0
+1991,August,12
 1991,September,10.1
 1991,October,10.6
 1991,November,9.1
-1991,December,9.0
+1991,December,9
 1992,January,12.1
 1992,February,10.7
 1992,March,9.5
@@ -469,7 +469,7 @@ Year,Month,Inflation
 1992,December,13.8
 1993,January,14.9
 1993,February,15.7
-1993,March,13.0
+1993,March,13
 1993,April,9.9
 1993,May,10.6
 1993,June,9.3
@@ -482,7 +482,7 @@ Year,Month,Inflation
 1994,January,10.2
 1994,February,12.1
 1994,March,14.5
-1994,April,17.0
+1994,April,17
 1994,May,12.1
 1994,June,9.8
 1994,July,5.7
@@ -492,11 +492,11 @@ Year,Month,Inflation
 1994,November,2.8
 1994,December,4.2
 1995,January,2.4
-1995,February,1.0
+1995,February,1
 1995,March,-0.9
 1995,April,0.7
 1995,May,8.1
-1995,June,10.0
+1995,June,10
 1995,July,12.9
 1995,August,8.6
 1995,September,10.7
@@ -540,17 +540,17 @@ Year,Month,Inflation
 1998,November,5.8
 1998,December,3.7
 1999,January,3.8
-1999,February,5.0
-1999,March,5.0
+1999,February,5
+1999,March,5
 1999,April,7.7
 1999,May,6.6
 1999,June,3.4
 1999,July,1.6
 1999,August,4.7
 1999,September,5.4
-1999,October,5.0
+1999,October,5
 1999,November,4.2
-1999,December,4.0
+1999,December,4
 2000,January,0.3
 2000,February,1.9
 2000,March,4.5
@@ -579,7 +579,7 @@ Year,Month,Inflation
 2002,February,8.5
 2002,March,11.4
 2002,April,8.3
-2002,May,10.0
+2002,May,10
 2002,June,10.7
 2002,July,10.8
 2002,August,10.1
@@ -588,17 +588,17 @@ Year,Month,Inflation
 2002,November,9.1
 2002,December,11.3
 2003,January,13.6
-2003,February,11.0
+2003,February,11
 2003,March,7.9
 2003,April,8.3
-2003,May,6.0
+2003,May,6
 2003,June,4.5
 2003,July,3.4
 2003,August,3.7
 2003,September,4.8
 2003,October,3.9
 2003,November,4.5
-2003,December,5.0
+2003,December,5
 2004,January,0.5
 2004,February,0.9
 2004,March,2.5
@@ -614,7 +614,7 @@ Year,Month,Inflation
 2005,January,14.6
 2005,February,15.9
 2005,March,15.5
-2005,April,14.0
+2005,April,14
 2005,May,11.8
 2005,June,9.4
 2005,July,10.8
@@ -622,8 +622,8 @@ Year,Month,Inflation
 2005,September,10.5
 2005,October,10.4
 2005,November,9.1
-2005,December,8.0
-2006,January,8.0
+2005,December,8
+2006,January,8
 2006,February,7.1
 2006,March,6.4
 2006,April,9.2
@@ -640,7 +640,7 @@ Year,Month,Inflation
 2007,March,19.5
 2007,April,16.3
 2007,May,13.7
-2007,June,13.0
+2007,June,13
 2007,July,17.6
 2007,August,17.3
 2007,September,17.3
@@ -648,7 +648,7 @@ Year,Month,Inflation
 2007,November,19.6
 2007,December,16.4
 2008,January,21.6
-2008,February,24.0
+2008,February,24
 2008,March,28.1
 2008,April,29.9
 2008,May,26.2
@@ -678,10 +678,10 @@ Year,Month,Inflation
 2010,May,5.3
 2010,June,4.8
 2010,July,4.3
-2010,August,5.0
+2010,August,5
 2010,September,5.8
 2010,October,6.6
-2010,November,7.0
+2010,November,7
 2010,December,6.9
 2011,January,6.8
 2011,February,7.8
@@ -690,7 +690,7 @@ Year,Month,Inflation
 2011,May,8.8
 2011,June,7.1
 2011,July,7.5
-2011,August,7.0
+2011,August,7
 2011,September,6.4
 2011,October,5.1
 2011,November,4.7
@@ -699,7 +699,7 @@ Year,Month,Inflation
 2012,February,2.7
 2012,March,5.5
 2012,April,6.1
-2012,May,7.0
+2012,May,7
 2012,June,9.3
 2012,July,9.8
 2012,August,9.5
@@ -745,94 +745,94 @@ Year,Month,Inflation
 2015,December,2.8
 2016,January,0.9
 2016,February,2.7
-2016,March,2.0
+2016,March,2
 2016,April,3.1
 2016,May,4.8
-2016,June,6.0
+2016,June,6
 2016,July,5.5
-2016,August,4.0
+2016,August,4
 2016,September,3.9
 2016,October,4.2
 2016,November,3.4
 2016,December,4.1
-2017,January ,5.5
-2017,February ,6.8
-2017,March ,7.3
-2017,April ,6.9
-2017,May ,6.0
-2017,June ,6.1
-2017,July ,4.8
-2017,August ,6.0
-2017,September ,7.1
-2017,October ,7.8
-2017,November ,7.6
-2017,December ,7.1
-2018,January ,5.8
-2018,February ,4.5
-2018,March ,4.2
-2018,April ,3.8
-2018,May ,4.0
-2018,June ,4.4
-2018,July ,5.4
-2018,August ,5.9
-2018,September ,4.3
-2018,October ,3.1
-2018,November ,3.3
-2018,December ,2.8
-2019,January ,3.7
-2019,February ,4.0
-2019,March ,4.3
-2019,April ,4.5
-2019,May ,5.0
-2019,June ,3.8
-2019,July ,3.3
-2019,August ,3.4
-2019,September ,5.0
-2019,October ,5.4
-2019,November ,4.4
-2019,December ,4.8
-2020,January ,5.7
-2020,February ,6.2
-2020,March ,5.4
-2020,April ,5.2
-2020,May ,4.0
-2020,June ,3.9
-2020,July ,4.2
-2020,August ,4.1
-2020,September ,4.0
-2020,October ,4.0
-2020,November ,4.1
-2020,December ,4.2
-2021,January ,3.0
-2021,February ,3.3
-2021,March ,4.1
-2021,April ,3.9
-2021,May ,4.5
-2021,June ,5.2
-2021,July ,5.7
-2021,August ,6.0
-2021,September ,5.7
-2021,October ,7.6
-2021,November ,9.9
-2021,December ,12.1
-2022,January ,14.2
-2022,February ,15.1
-2022,March ,18.7
-2022,April ,29.8
-2022,May ,39.1
-2022,June ,54.6
-2022,July ,60.8
-2022,August ,64.3
-2022,September ,69.8
-2022,October ,66.0
-2022,November ,61.0
-2022,December ,57.2
-2023,January ,54.2
-2023,February ,50.6
-2023,March ,50.3
-2023,April ,35.3
-2023,May ,25.2
-2023,June ,12.0
-2023,July ,6.3
-2023,August ,4.0
-2023,September ,1.3
+2017,January,5.5
+2017,February,6.8
+2017,March,7.3
+2017,April,6.9
+2017,May,6
+2017,June,6.1
+2017,July,4.8
+2017,August,6
+2017,September,7.1
+2017,October,7.8
+2017,November,7.6
+2017,December,7.1
+2018,January,5.8
+2018,February,4.5
+2018,March,4.2
+2018,April,3.8
+2018,May,4
+2018,June,4.4
+2018,July,5.4
+2018,August,5.9
+2018,September,4.3
+2018,October,3.1
+2018,November,3.3
+2018,December,2.8
+2019,January,3.7
+2019,February,4
+2019,March,4.3
+2019,April,4.5
+2019,May,5
+2019,June,3.8
+2019,July,3.3
+2019,August,3.4
+2019,September,5
+2019,October,5.4
+2019,November,4.4
+2019,December,4.8
+2020,January,5.7
+2020,February,6.2
+2020,March,5.4
+2020,April,5.2
+2020,May,4
+2020,June,3.9
+2020,July,4.2
+2020,August,4.1
+2020,September,4
+2020,October,4
+2020,November,4.1
+2020,December,4.2
+2021,January,3
+2021,February,3.3
+2021,March,4.1
+2021,April,3.9
+2021,May,4.5
+2021,June,5.2
+2021,July,5.7
+2021,August,6
+2021,September,5.7
+2021,October,7.6
+2021,November,9.9
+2021,December,12.1
+2022,January,14.2
+2022,February,15.1
+2022,March,18.7
+2022,April,29.8
+2022,May,39.1
+2022,June,54.6
+2022,July,60.8
+2022,August,64.3
+2022,September,69.8
+2022,October,66
+2022,November,61
+2022,December,57.2
+2023,January,54.2
+2023,February,50.6
+2023,March,50.3
+2023,April,35.3
+2023,May,25.2
+2023,June,12
+2023,July,6.3
+2023,August,4
+2023,September,1.3
